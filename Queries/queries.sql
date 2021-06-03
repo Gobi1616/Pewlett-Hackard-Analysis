@@ -53,7 +53,7 @@ CREATE TABLE titles (
 
 select * from titles;
 
-CREATE TABLE dep_emp (
+CREATE TABLE dept_emp (
 	emp_no INT NOT NULL,
 	dept_no VARCHAR(4) NOT NULL,
   	from_date DATE NOT NULL,
@@ -63,7 +63,7 @@ CREATE TABLE dep_emp (
     PRIMARY KEY (emp_no, dept_no)
 );
 
-select * from Dep_Emp;
+select * from Dept_Emp;
 
 SELECT first_name, last_name
 FROM employees
