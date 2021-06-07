@@ -15,6 +15,9 @@ WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31');
 
 SELECT * FROM retirement_titles
 
+SELECT COUNT (retirement_titles.emp_no)
+FROM retirement_titles
+
 -- Deliverable #1.2.
 -- Partition the data to show only most unique title per employee
 
@@ -35,11 +38,13 @@ FROM
  ) tmp WHERE rn = 1
 ORDER BY emp_no;
 
+SELECT COUNT (unique_titles.emp_no)
+FROM unique_titles
+
 -- group by title to show how many of each title will retire 
 SELECT COUNT(unique_titles.emp_no), unique_titles.title
---INTO retiring_titles
+INTO retiring_titles
 FROM unique_titles
 GROUP BY unique_titles.title
 ORDER BY COUNT(title) DESC;
-
 
