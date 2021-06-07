@@ -24,3 +24,35 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
     - The results show 90,398 employees born between 1952 and 1955 that are soon to retire.
     - The “retiring_titles” query table shown below (table 1), there will be retirees in all positions. Senior Engineers have the highest count of retirees, 29,414 and Managers have the lowest count, 2. The data must be reviewed as it may include employees that are no longer employed.
+
+4) SQL query to create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965:
+
+    - 1,549 employees are eligible for the mentorship program. This number excludes any employee that is no longer with the company.
+
+## Summary:
+
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
+1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+   - There are 90,398 total employees or roles that will soon need to be filled as the "silver tsunami" begins to make an impact. See table 2 below:
+
+Analysis criteria was to look at the following
+
+   - Employees with birthdates between 1952 and 1955.
+   - Most recent titles.
+
+Table 2:
+
+2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+   - There are 1,549 total employees that are eligible for the mentorship program. See table 3 below.
+
+If we assume that they will all be willing to participate in the mentorship program, it will imply that each mentor would have an average of 58 mentees, so we can conclude that there is not enough mentors to prepare the next generation of Pewlett Hackard employees. It is critical that the company must create a strategy on how to train the new employees quickly and balance the number of mentors.
+
+Analysis criteria was to look at the following:
+
+   - Employees with birthdate in January 1st, 1965 and December 31st, 1965.
+   - Current employees.
+
+Table 3:
