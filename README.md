@@ -25,6 +25,10 @@ The purpose of this analysis is to determine the number of retiring employees pe
     - The results show 90,398 employees born between 1952 and 1955 that are soon to retire.
     - The “retiring_titles” query table shown below (table 1), there will be retirees in all positions. Senior Engineers have the highest count of retirees, 29,414 and Managers have the lowest count, 2. The data must be reviewed as it may include employees that are no longer employed.
 
+    ![image](https://user-images.githubusercontent.com/82549869/121095801-00246c00-c7bf-11eb-8620-9ae9407fdd77.png)
+    
+    Table: 1
+
 4) SQL query to create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965:
 
     - 1,549 employees are eligible for the mentorship program. This number excludes any employee that is no longer with the company.
