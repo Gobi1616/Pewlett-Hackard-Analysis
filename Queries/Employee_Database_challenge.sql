@@ -37,8 +37,9 @@ ORDER BY emp_no;
 
 -- group by title to show how many of each title will retire 
 SELECT COUNT(unique_titles.emp_no), unique_titles.title
-INTO retiring_titles
+--INTO retiring_titles
 FROM unique_titles
-GROUP BY unique_titles.title;
+GROUP BY unique_titles.title
+ORDER BY COUNT(title) DESC;
 
 
