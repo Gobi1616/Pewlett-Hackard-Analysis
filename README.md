@@ -65,3 +65,4 @@ Analysis criteria was to look at the following:
    
    ![image](https://user-images.githubusercontent.com/82549869/121096284-e9324980-c7bf-11eb-836a-cca427271985.png)
 
+There may not be enough people in the workforce to handle the tasks or even come close to having the necessary experience to fill these roles so quickly, but what companies can do is try to learn as much as possible about what these employees did to be so successful and have such long careers so that future employees can continue the tradition. Given that 63% of the workforce is eligible for retirement or mentorship, there will be plenty of openings in the next 5-10 years. Most likely, future generations will be more computer savvy/efficient as a result of technological advancements, and will be able to pick up on new concepts rapidly, allowing businesses to maintain a positive income trend.
