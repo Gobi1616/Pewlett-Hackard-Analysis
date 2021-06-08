@@ -2,13 +2,13 @@
 
 ## Overview of the analysis:
 
-The project is for a large company called Pewlett Hackard that employs several thousands of employees.
+The project is for Pewlett Hackard, a large corporation with tens of thousands of people. 
 
-Employment information was analyzed to assess the number of employees that could be entering the retirement age and determine the number of potential vacancies to fill in the near future.
+The number of employees approaching retirement age was calculated using employment data, as well as the number of possible vacancies to fill in the near future.
 
-To prevent the high increase of retirement, Pewlett Hackard is offering a retirement package by introducing a mentoring program where experienced and successful employees will be stepping back into a part-time role instead of retiring completely.
+Pewlett Hackard is proposing a retirement package by developing a mentorship programme in which experienced and effective employees will move back into a part-time role rather than leaving fully, in order to reduce the high rate of retirement.
 
-The purpose of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in the mentorship program.
+The goal of this study is to figure out how many retiring employees there are for each job title and who is qualified for the mentorship programme.
 
 ## Results:
 
